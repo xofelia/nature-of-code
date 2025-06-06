@@ -1,0 +1,1 @@
+Repo for exercises for [Nature of Code](https://natureofcode.com/) by Daniel Shiffman 
