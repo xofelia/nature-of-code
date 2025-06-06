@@ -1,0 +1,15 @@
+{
+  "name": "nature-of-code",
+  "version": "1.0.0",
+  "description": "Repo for exercises for [Nature of Code](https://natureofcode.com/) by Daniel Shiffman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
